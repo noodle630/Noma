@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "socket": {
+    "path": "/Users/pratik/.openclaw/exec-approvals.sock",
+    "token": "aEvAVIn0szBjWpdGxNsCwgVyE3a0aA4L"
+  },
+  "defaults": {},
+  "agents": {}
+}

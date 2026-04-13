@@ -1,0 +1,14 @@
+logs/
+credentials/
+*.bak
+agents/*/sessions/
+canvas/
+openclaw.json
+openclaw.json.bak*
+agents/
+identity/
+devices/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+.DS_Store

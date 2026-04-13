@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "version": "1.0",
+    "last_updated": "2026-04-12",
+    "note": "Shared context file. All agents read this at session start. Seoul updates this weekly with synthesized cross-agent insights."
+  },
+
+  "identity": {
+    "name": "Pratik Shekhar",
+    "pronouns": "He/Him/His",
+    "location": "San Francisco, CA",
+    "timezone": "America/Los_Angeles",
+    "phone": "+16072624118",
+    "email": "ps727@cornell.edu",
+    "visa_status": "H1B",
+    "nationality": "Indian"
+  },
+
+  "current_chapter": {
+    "status": "Career transition — April 2026",
+    "current_role": "Senior PM at Reebelo (last day ~April 26, 2026)",
+    "next_role": "Founding PM at Harper — start date April 27, 2026",
+    "harper_context": "AI-first insurance brokerage. Uses agents + technology + speed as core MOAT. Recently closed Series A. Pratik believes this is a unicorn-trajectory company by mid-2027.",
+    "transition_focus": "Clean Reebelo handover. Learn insurance fast. Get in the grind as founding PM.",
+    "big_picture_ambition": "Build his own billion-dollar company. Harper is the school."
+  },
+
+  "career_history": [
+    {
+      "company": "Reebelo",
+      "role": "Senior Product Manager",
+      "period": "Feb 2024 – Apr 2026",
+      "type": "Marketplace / Series B",
+      "highlights": [
+        "Led full Shopify migration as sole PM — rebuilt checkout on Stripe, 17% CVR lift",
+        "Rebuilt catalog and storefront, unlocked long-tail inventory",
+        "Shut down Amazon/Newegg, refocused on Walmart (50% of US revenue)",
+        "Managed 15-engineer team, aligned leadership toward UK launch"
+      ]
+    },
+    {
+      "company": "Paytm Insider",
+      "role": "Growth PM",
+      "period": "Nov 2018 – Jul 2021",
+      "type": "Ticketing / Media & Entertainment",
+      "highlights": [
+        "Led large-format live events pre-COVID",
+        "Pivoted to virtual events during COVID — 100+ enterprise clients, 25K+ events",
+        "2x revenue growth, 150%+ engagement lift, 2M+ user acquisitions"
+      ]
+    },
+    {
+      "company": "Blinkit (formerly Grofers)",
+      "role": "Marketing Manager, North India",
+      "period": "Jun 2016 – Oct 2018",
+      "type": "eCommerce / Instant Delivery",
+      "highlights": [
+        "45% increase in order frequency, 24% retention improvement, 50% lower reactivation cost",
+        "Built churn prediction model with data partners"
+      ]
+    },
+    {
+      "company": "Stealth Startup",
+      "role": "Co-Founder",
+      "period": "Jun 2015 – May 2016",
+      "type": "Hyperlocal fashion marketplace",
+      "highlights": ["Try-before-you-buy model for fashion e-commerce returns problem"]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Cornell University",
+      "degree": "MBA",
+      "gpa": "3.71",
+      "honors": "Johnson Merit Scholar, VP Tech Club",
+      "period": "Aug 2021 – May 2023",
+      "internships": ["Wayfair Marketplace (transactional comms + upsell)", "Antler Venture Capital (founder evaluation)"]
+    },
+    {
+      "institution": "National Institute of Technology, Jamshedpur",
+      "degree": "B.Tech Electrical Engineering",
+      "gpa": "3.49",
+      "graduated": "May 2016"
+    }
+  ],
+
+  "goals": {
+    "1_year": [
+      "Crush it as founding PM at Harper — be indispensable",
+      "Learn insurance deeply and fast",
+      "Keep health + fitness as non-negotiables",
+      "Make progress on personal company idea pipeline"
+    ],
+    "3_5_year": [
+      "Build and launch own company (billion-dollar ambition)",
+      "Stay in SF or move strategically",
+      "Financial independence — clear targets to be defined with Tokyo"
+    ],
+    "north_star": "Build something that matters at scale. Be the smartest, fastest version of myself."
+  },
+
+  "information_diet": {
+    "newsletters": [
+      "Morning Brew",
+      "Bloomberg Business & Tech",
+      "Lenny's Newsletter",
+      "TechCrunch",
+      "Techespresso",
+      "NYT",
+      "WSJ",
+      "Inshorts",
+      "The Ken (India)",
+      "GrowthX",
+      "The Hindu"
+    ],
+    "daily_scan_topics": [
+      "Insurtech — companies, funding, regulation, distribution models",
+      "AI-first startups (Harper, Harvey, Klarna, etc.)",
+      "AI infrastructure and model developments",
+      "Startup ecosystem — funding rounds, acquisitions, pivots",
+      "VC ecosystem — what's being funded, emerging thesis",
+      "US and India startup opportunities",
+      "Macro — US economy, Fed, global markets",
+      "Geopolitics affecting business and tech",
+      "San Francisco / California local news (filtered for relevance)",
+      "Product management craft and frameworks"
+    ],
+    "signal_over_noise": "Pratik wants insights, not headlines. If he probably already saw it, skip it. If it changes what he should think or do, include it."
+  },
+
+  "personality_and_working_style": {
+    "type": "High-agency, high-ambition. Moves fast. Wants signal, not noise.",
+    "communication_preference": "Short, crisp, direct. Bullet points. Actionable.",
+    "feedback_style": "Brutally honest. Does not want sycophancy. Wants to be challenged.",
+    "decision_making": "Data-informed, moves on conviction. Biased toward action.",
+    "energy": "Builder mindset. Always thinking about what to build next.",
+    "weaknesses_to_watch": "To be discovered by agents over time — Seoul owns this."
+  },
+
+  "lifestyle": {
+    "city": "San Francisco, CA",
+    "active": true,
+    "health_priority": "High — fitness, food, sleep are non-negotiables",
+    "background": "Indian-origin, grew up in India, has lived in SF and NYC area",
+    "family": "Important. Details TBD in Seoul sessions.",
+    "finances": "To be mapped with Tokyo — income streams, investments, budget TBD"
+  },
+
+  "agent_notes": {
+    "berlin": "Chief of Staff. Pratik's reference: sharp CoS x consultant x PM. Brutal, smart, never agrees just to agree. Help him become 10x. Short iMessages, more detailed emails. Learns his taste over time.",
+    "tokyo": "CFO lens. Tracks spend, investments, flags anomalies. Calm, analytical, occasionally blunt. Financial details (goals, accounts, budget) to be defined in Tokyo discovery session.",
+    "hanoi": "Wellness coach + chef. Food logging, workouts, sleep, Apple Health. Encouraging but honest. Full wellness context to be defined in Hanoi discovery session.",
+    "seoul": "Journal + mirror. Nightly 3 questions. Tracks mood, patterns, connects dots across all agents. Synthesizer — feeds insights back into this shared profile weekly."
+  },
+
+  "do_not_cross": [
+    "Never take irreversible actions (delete, send, purchase) without explicit clear confirmation",
+    "Never be sycophantic — Pratik respects honesty more than comfort",
+    "Never pad or repeat what he already knows",
+    "Security first — no actions on behalf of Pratik unless he directly and clearly requested it in the same session"
+  ]
+}
