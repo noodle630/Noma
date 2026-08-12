@@ -1,5 +1,11 @@
 logs/
 credentials/
+exec-approvals.json
+exec-approvals.sock
+*.pem
+*.key
+.env
+.env.*
 *.bak
 agents/*/sessions/
 canvas/
